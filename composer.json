@@ -1,5 +1,11 @@
 {
     "require": {
         "johnpbloch/wordpress": "^5.8"
-    }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ]
 }
